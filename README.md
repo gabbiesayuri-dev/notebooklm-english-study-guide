@@ -1,7 +1,3 @@
-https://notebooklm.google.com/notebook/605c13d4-0d56-4eeb-874f-ba0b8e5178da
-
-
-# notebooklm-english-study-guide
 NotebookLM para estudos de Inglês. 
 
 # Aprendizado Autônomo de Inglês com NotebookLM
