@@ -101,8 +101,6 @@ Sim. O quiz marcou automaticamente as respostas corretas e incorretas, explicou 
 
 Acredito que a IA poderia distribuir melhor as alternativas, pois algumas respostas se repetiram consecutivamente.
 
-> Inserir print da tela do quiz.
-
 ---
 
 ## Prompt 3
