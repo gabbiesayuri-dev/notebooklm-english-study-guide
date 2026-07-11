@@ -41,7 +41,7 @@ https://portal.ibeu.org.br/blog/ingles-no-dia-a-dia/dicas-aprender-ingles-sozinh
 
 ---
 
-## Fonte 2 – Livro ( Fluente em seis 6 aprenda inglês do Zero )
+## Fonte 2 – Livro ( Fluente em 6 meses aprenda inglês do Zero )
 
 **Descrição**
 
